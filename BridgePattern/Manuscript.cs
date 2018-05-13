@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace BridgePattern
+﻿namespace BridgePattern
 {
     public abstract class Manuscript
     {
